@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TrackEdge",
+	"Description": "TrackEdge is the game analytics plugin built specifically for Unreal Engine. Track gameplay events, player behavior, and get insights with secure backend.",
+	"Category": "Analytics",
+	"CreatedBy": "DevEdge Studio",
+	"CreatedByURL": "https://trackedge.dev/",
+	"DocsURL": "https://trackedge.devedge.studio/docs",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/17c4567c-1214-419a-bb9e-73e631c94a6e",
+	"SupportURL": "https://discord.gg/hf35ZVYqj4",
+	"EngineVersion": "5.7",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TrackEdge",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "TrackEdgeEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+# Unreal Engine generated folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio generated files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.lib
+*.exp
+
+# Unreal generated files
+*.generated.h
+*.gen.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Packaging
+Build/
+
+# Optional: ignore packaged plugin archives
+*.zip
+
+# Unreal autosaves
+*.uasset.autosave
+*.umap.autosave
